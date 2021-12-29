@@ -19,7 +19,7 @@ My only recommended video for you that want to learn how to program:
 
 ##
 
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoMoreira71512&show_icons=true&theme=radical)](https://github.com/LeonardoMoreira71512/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMoreira71512&layout=compact&theme=radical)](https://github.com/LeonardoMoreira71512/github-readme-stats)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoMoreira71512&show_icons=true&theme=radical)](https://github.com/LeonardoMoreira71512/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMoreira71512&layout=compact&theme=radical)](https://github.com/LeonardoMoreira71512/github-readme-stats)
 
 ##
 
