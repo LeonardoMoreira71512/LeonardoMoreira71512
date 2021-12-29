@@ -18,7 +18,9 @@ My only recommended video for you that want to learn how to program:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="64" width="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="64" widht="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="64" width="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="64" width="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="64" width="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="64" width="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64" width="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="64" width="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" height="64" width="64"/>
 
 ##
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoMoreira71512&theme=radical)](https://github.com/LeonardoMoreira71512/github-profile-trophy) 
+
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoMoreira71512&show_icons=true&theme=radical)](https://github.com/LeonardoMoreira71512/github-readme-stats)
+
 ##
 
 <div>
@@ -27,3 +29,6 @@ My only recommended video for you that want to learn how to program:
   <a href="https://discord.com/channels/763156819559448594/763156819559448599" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/leonardo2002moreira" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
+
+##
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoMoreira71512&theme=radical)](https://github.com/LeonardoMoreira71512/github-profile-trophy) 
