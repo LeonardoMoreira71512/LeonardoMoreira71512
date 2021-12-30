@@ -30,4 +30,4 @@ My only recommended video for you that want to learn how to program:
 </div>
 
 ##
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoMoreira71512&theme=discord)](https://github.com/LeonardoMoreira71512/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoMoreira71512&theme=juicyfresh)](https://github.com/LeonardoMoreira71512/github-profile-trophy) 
