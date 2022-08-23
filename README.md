@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Leo and i'm 19 years old👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Leo and i'm 20 years old👨‍💻</h1>
 
 ##
 
-- 💻 I'm a 2ndyear Computer Science student at Algarve University
+- 💻 I'm a 3ndyear Computer Science student at Algarve University
 - 🏙 I'm currently living in Faro
 - 👬 I'm looking to collaborate on anything that i think has value or at least seems interesting (for me ofc :) 
 - 📭 How to reach me: leonardo2002moreira@gmail.com
