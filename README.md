@@ -2,8 +2,7 @@
 
 ##
 
-- 💻 I'm a 3ndyear Computer Science student at Algarve University
-- 🏙 I'm currently living in Faro
+- 💻 Bsc Computer Science at Universidade do Algarve
 - 📭 How to reach me: leonardo2002moreira@gmail.com
 ##
 
