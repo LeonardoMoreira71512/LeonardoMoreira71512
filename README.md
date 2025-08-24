@@ -8,7 +8,8 @@
 ## About Me
 23-year-old Computer Science graduate from Universidade do Algarve, passionate about AI, Full Stack, Web3, and n8n. Skilled in Python, Java, C, Django, React, Vue, PHP, Docker, and cloud services. I enjoy solving problems, building impactful solutions, and learning new trends. Outside tech, I enjoy going to the gym, do some running, and chillin' with friends.
 
-- 💻 BSc at Universidade do Algarve
+- 💻 BSc in Computer Science at Universidade do Algarve
+- 📍Currently Intern at Vanaci Prime working with n8n workflows and AI agents
 - 🌍 Portugal
 - 📧 leonardo2002moreira@gmail.com
 
