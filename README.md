@@ -3,7 +3,7 @@
 ##
 
 - 💻 Bsc Computer Science at Universidade do Algarve
-- 📭 How to reach me: leonardo2002moreira@gmail.com
+- 📭 How to reach me: leomoreira.work@gmail.com
 ##
 
 ##
